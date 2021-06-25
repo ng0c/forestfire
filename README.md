@@ -1,5 +1,3 @@
---- All files of completed assignments in the module Programming in C ---
-
 <h3><b>Brief:</b></h3>
 
 You can create a very simple model of forest fires using a cellular automaton in the form a 2D
