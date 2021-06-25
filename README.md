@@ -3,10 +3,15 @@
 You can create a very simple model of forest fires using a cellular automaton in the form a 2D
 grid of cells. Each cell can be in one of three states; either ‘empty’, ‘tree’, or ‘fire’. The next
 generation of cells follows these rules:
+
 • A ‘fire’ cell will turn into an ‘empty’ cell.
+
 • A ‘tree’ that is within the 8-neighbourhood of a ‘fire’ cell will itself become ‘fire’.
+
 • A ‘tree’ will burn (due to a lightning strike) 1 time in L.
+
 • An ‘empty’ space will become a ‘tree’ (spontaneous growth) 1 time in G.
+<br></br>
 
 See also:
 
